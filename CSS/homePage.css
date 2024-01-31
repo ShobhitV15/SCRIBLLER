@@ -1,0 +1,21 @@
+body{
+    background-image: url(../background.jpg);
+    background-size: cover;
+}
+.navbar{
+    font-family: 'Montez',cursive;
+}
+.btn1{
+    background-color: blue;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.btn2{
+    background-color: blue;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.a{
+    size: 0.4px;
+}
